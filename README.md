@@ -16,7 +16,7 @@ This repository contains a specialized medical reasoning chatbot fine-tuned on t
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/Medical-Chatbot.git](https://github.com/your-username/Medical-Chatbot.git)
+   git clone (https://github.com/taha-qureshi127/Medical-chatbot)
    cd Medical-Chatbot
 Install the dependencies:
 
@@ -27,8 +27,6 @@ Running the Interface
 Start the web interface to interact with the AI. This will start the medical chatbot application hosted locally on port 8501:
 
 python app.py
-
-(Open http://localhost:8501 in your web browser to access the chat UI).
 
 Terminal Testing
 To run a quick diagnostic test directly from the terminal without starting the full application:
